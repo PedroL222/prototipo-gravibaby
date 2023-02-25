@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/login.css">
-    <link rel="stylesheet" type="text/css" href="fontawesome-free-6.3.0-web/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="fonts/css/all.min.css">
     <title>login</title>
 </head>
 <body>
@@ -25,16 +25,16 @@
             <h3>Entrar com:</h3>
             <ul>
                 <li>
-                    <a id="icons"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="#" id="icons"><i class="fa-brands fa-facebook"></i></a>
                 </li>
                 <li>
-                    <a id="icons"><i class="fa-brands fa-google"></i></a>
+                    <a href="#" id="icons"><i class="fa-brands fa-google"></i></a>
                 </li>
                 <li>
-                    <a id="icons"><i class="fa-brands fa-linkedin"></i></a>
+                    <a href="#" id="icons"><i class="fa-brands fa-linkedin"></i></a>
                 </li>
                 <li>
-                    <a id="icons"><i class="fa-brands fa-apple"></i></a>
+                    <a href="#" id="icons"><i class="fa-brands fa-apple"></i></a>
                 </li>
             </ul>
         </div>

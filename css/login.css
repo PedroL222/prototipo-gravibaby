@@ -117,6 +117,7 @@ body{
     text-decoration: none;
     margin-bottom: 6px;
     transition: all 0.375s;
+    cursor: pointer;
 }
 
 .login-icons > ul{
@@ -125,17 +126,20 @@ body{
 }
 
 .login-icons > ul > li{
-    cursor: pointer;
+    width: calc(100% / 4);
+}
+
+.login-icons > ul > li > a{
     color: #f35396;
-    display: flex;
     font-size: 3rem;
     text-align: left;
     text-decoration: none;
     transition: all 0.375s;
-    width: calc(100% / 4);
+    cursor: pointer;
+    display: flex;
 }
 
-.login-form > a:hover, .login-icons > ul > li:hover{
+.login-form > a:hover, .login-icons > ul > li > a:hover{
     color: #3cb2f6;
 }
 
